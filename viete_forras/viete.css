@@ -30,7 +30,7 @@ h3
 	text-decoration:underline;
 	font-style: italic;	
 }
-div.jobbra
+.jobbra
 {
 	float:right;
 }
@@ -42,4 +42,8 @@ form
 {
 	text-align:left;
 	font-size:1.2em;
+}
+#viete_f{
+	width: 176px;
+	height: 227px;
 }
